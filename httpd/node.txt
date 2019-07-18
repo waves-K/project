@@ -1,0 +1,3 @@
+下载 mysql官网,开发者模式,下载C库, linux-generic,
+ldd --查看文件依赖选项
+导出:export LB_LIBRARY_PATH=库绝对路径
